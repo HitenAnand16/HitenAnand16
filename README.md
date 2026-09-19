@@ -1,15 +1,15 @@
 <!-- Profile README for github.com/HitenAnand16/HitenAnand16 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Hiten%20Anand&fontColor=ffffff&fontSize=62&fontAlignY=38" alt="Hiten Anand" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:8E2DE2,100:4A00E0&text=Hiten%20Anand&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Mobile%20and%20Full%20Stack%20Developer&descColor=ffffff&descSize=18&descAlignY=55" alt="Hiten Anand" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=36BCF7&center=true&vCenter=true&width=700&lines=Mobile+%26+Full+Stack+Developer;React+Native+apps+from+0+%E2%86%92+production;Real-time+fintech+%7C+Payments+%7C+Analytics;Currently+learning+Python%2C+Swift+%26+AI%2FML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=8B5CF6&center=true&vCenter=true&width=700&lines=React+Native+apps+from+0+%E2%86%92+production;Real-time+fintech+%7C+Payments+%7C+Analytics;Shipping+for+iOS+%26+Android;Currently+learning+Python%2C+Swift+%26+AI%2FML)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/hitenanand/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:hitenanand2402@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Gurugram%2C%20India-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://komarev.com/ghpvc/?username=HitenAnand16&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Gurugram%2C%20India-4A00E0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=HitenAnand16&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -40,17 +40,26 @@ I architected Multyfi's flagship **iOS + Android** stock-advisory app from the g
 
 **Mobile&nbsp;&&nbsp;Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,swift,redux,tailwind,html,css&theme=dark" alt="React Native, JavaScript, TypeScript, Swift, Redux, Tailwind, HTML, CSS" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,js,ts,swift,redux,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,swift,redux,tailwind,html,css&theme=light" alt="React Native, JavaScript, TypeScript, Swift, Redux, Tailwind, HTML, CSS" />
+</picture>
 
 **Backend&nbsp;&&nbsp;Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,firebase&theme=dark" alt="Node.js, Express, Python, FastAPI, Firebase" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,firebase&theme=light" alt="Node.js, Express, Python, FastAPI, Firebase" />
+</picture>
 
 **Tools&nbsp;&&nbsp;Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,postman&theme=dark" alt="Git, GitHub, Android Studio, Postman" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,androidstudio,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,postman&theme=light" alt="Git, GitHub, Android Studio, Postman" />
+</picture>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 
 **Integrations**
 
@@ -58,7 +67,7 @@ I architected Multyfi's flagship **iOS + Android** stock-advisory app from the g
 <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Meta%20Events-0866FF?style=flat-square&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/MMP%20Attribution-1f2937?style=flat-square" />
+<img src="https://img.shields.io/badge/MMP%20Attribution-4A00E0?style=flat-square" />
 
 </div>
 
@@ -110,18 +119,14 @@ I architected Multyfi's flagship **iOS + Android** stock-advisory app from the g
 
 > 🔒 &nbsp;My production work — the Multyfi app, its backend and admin panel — lives in private repositories. These are the public ones.
 
-<div align="center">
-
 | Project | Stack |
 | :--- | :--- |
 | **[genai_game](https://github.com/HitenAnand16/genai_game)** — a generative-AI powered game | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[SmartCart](https://github.com/HitenAnand16/SmartCart)** — shopping-cart app | ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-| **[HealthFlexTimerApp](https://github.com/HitenAnand16/HealthFlexTimerApp)** — workout interval timer | ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-| **[NotificationApp](https://github.com/HitenAnand16/NotificationApp)** — push-notification playground | ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-| **[Recipe_app](https://github.com/HitenAnand16/Recipe_app)** — recipe browser | ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-| **[SwipeS](https://github.com/HitenAnand16/SwipeS)** — swipe-based UI experiment | ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-
-</div>
+| **[SmartCart](https://github.com/HitenAnand16/SmartCart)** — shopping-cart app | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[HealthFlexTimerApp](https://github.com/HitenAnand16/HealthFlexTimerApp)** — workout interval timer | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[NotificationApp](https://github.com/HitenAnand16/NotificationApp)** — push-notification playground | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[Recipe_app](https://github.com/HitenAnand16/Recipe_app)** — recipe browser | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[SwipeS](https://github.com/HitenAnand16/SwipeS)** — swipe-based UI experiment | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" />
 
@@ -129,11 +134,19 @@ I architected Multyfi's flagship **iOS + Android** stock-advisory app from the g
 
 <div align="center">
 
-<img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HitenAnand16&theme=tokyonight" alt="Profile summary" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HitenAnand16&theme=tokyonight" />
+<img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HitenAnand16&theme=github" alt="Profile summary" />
+</picture>
 
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HitenAnand16&theme=tokyonight" alt="Repos per language" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HitenAnand16&theme=tokyonight" alt="Most commit language" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HitenAnand16&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HitenAnand16&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HitenAnand16&theme=github" alt="Most commit language" />
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HitenAnand16&theme=tokyonight&utcOffset=5.5" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HitenAnand16&theme=github&utcOffset=5.5" alt="Productive time" />
+</picture>
 
 </div>
 
@@ -143,11 +156,14 @@ I architected Multyfi's flagship **iOS + Android** stock-advisory app from the g
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,swift,tensorflow&theme=dark" alt="Python, Swift, TensorFlow" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,swift,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,swift,tensorflow&theme=light" alt="Python, Swift, TensorFlow" />
+</picture>
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3776AB?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-2C5364?style=flat-square)
-![LLD](https://img.shields.io/badge/Low%20Level%20Design-203A43?style=flat-square)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8E2DE2?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-6C2BD9?style=flat-square)
+![LLD](https://img.shields.io/badge/Low%20Level%20Design-4A00E0?style=flat-square)
 
 </div>
 
@@ -166,4 +182,4 @@ I architected Multyfi's flagship **iOS + Android** stock-advisory app from the g
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4A00E0,100:8E2DE2&section=footer" alt="" />
