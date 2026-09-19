@@ -129,47 +129,6 @@ I architected Multyfi's flagship **iOS + Android** stock-advisory app from the g
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" />
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HitenAnand16&theme=tokyonight" />
-<img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HitenAnand16&theme=github" alt="Profile summary" />
-</picture>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HitenAnand16&theme=tokyonight" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HitenAnand16&theme=github" alt="Most commit language" />
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HitenAnand16&theme=tokyonight&utcOffset=5.5" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HitenAnand16&theme=github&utcOffset=5.5" alt="Productive time" />
-</picture>
-
-</div>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" />
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,swift,tensorflow&theme=dark" />
-<img src="https://skillicons.dev/icons?i=python,swift,tensorflow&theme=light" alt="Python, Swift, TensorFlow" />
-</picture>
-
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8E2DE2?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-6C2BD9?style=flat-square)
-![LLD](https://img.shields.io/badge/Low%20Level%20Design-4A00E0?style=flat-square)
-
-</div>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" />
-
-<div align="center">
-
 ### 💬 &nbsp;Let's build something great together
 
 <a href="https://www.linkedin.com/in/hitenanand/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
